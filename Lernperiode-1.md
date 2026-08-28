@@ -23,14 +23,11 @@ Ich würde gerne bei Modul 319 die Missionen rund ums programmieren wiederholen 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
--  Modul 319 Mission 2 Auftrag
-- Modul 219 Mission  3 Auftrag
+-  
+- Modul 319 Mission  3 Auftrag selbst ein Projekt programmieren
+- Modul 319 Mission 4/5 selbst ein Projekt auf diese Art programmieren
 
-(Heute habe ich mir im LernatelierDie Ordnerstruktur angesehen und diese auch
-nachgemacht meistens auf meine eigene Art.Dann habe ich die Git Hub Anleitung
-aneschaut dies konfiguriert alles comited und dann am Schluss synchronisiert
-sodass es alles übertragen wird. Dann habe ich schonmals für die nächste Woche
-geplant was ich im ILA nächste Woche machen werde.))
+
 
 
 ### Planung 04.09.2026
