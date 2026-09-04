@@ -35,7 +35,7 @@ Ich würde gerne bei Modul 319 die Missionen rund ums programmieren wiederholen 
 
 - [ ] Modul 319 Mission 6 machen und Grundlagen verstehen
 - [ ] Eigenes Programm programmieren um das Programmieren besser zu verstehen
-- [X] Viertes AP
+- [X] Alle  319 Missionen anschauen und repetieren als Übung für die OBA Prüfung
 
 (Heute habe ich... (50-100 Wörter))
 
