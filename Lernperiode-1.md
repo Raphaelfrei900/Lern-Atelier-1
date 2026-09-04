@@ -33,8 +33,8 @@ Ich würde gerne bei Modul 319 die Missionen rund ums programmieren wiederholen 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
+- [ ] Modul 319 Mission 6 machen und Grundlagen verstehen
+- [ ] Eigenes Programm programmieren um das Programmieren besser zu verstehen
 - [X] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
