@@ -37,18 +37,28 @@ Ich würde gerne bei Modul 319 die Missionen rund ums programmieren wiederholen 
 - [ ] Eigenes Programm programmieren um das Programmieren besser zu verstehen
 - [X] Alle  319 Missionen anschauen und repetieren als Übung für die OBA Prüfung
 
+Reflexion:
+
 Heute habe ich die Mission 6 im Modul 319 abgeschlossen. Dort hatte ich anfangs etwas Probleme, konnte diese aber schnell beheben. Durch diese Mission hab ich das do/ while besser verstanden und auch wie man die Klammern setzt. Programmieren konnte ich auch ein wenig und habe mir mein eigenes Programm gemacht. Dieses Programm beeinhaltete meistens if else if oder else. Schlussendlich konnte ich von allen Missionen die Powerpoint nochmals repetieren und mein Wissen besser vertiefen. Schlussendlich konnte ich mir die Powerpoints zwar anschauen, aber nicht gründlich, da ich in der letzten Stunde nicht mehr so konzentriert gewesen bin.
 
 
 ### Planung 11.09.2026
 
 -Modul 319 Mission 7 machen und besser verstehen
--Modul 431 Mission 6 repterieren
--Modul 431 Mission 7 repterieren
+-Modul 431 Handlungsziel 2
+
+
+Reflexion:
+Heute habe ich die Mission 7 319 erfolgreich abgeschlossen und auch alles verstanden wie alles funktionniert. Anschliessend konnte ich noch kurz vor Ende das Handlungsziel 2 nachholen und habe dadurch jetzt auch weniger Stress. Allgemein hätte ich die Arbeiten ein bisschen effizienter machen können aber leider hatte ich manchmal nicht all  zu viel Motivation aber probiere es nächstes mal zu bessern.
+
+### Planung 18.09.2026
+
+Modul 319 Mission 9 entweder repetieren oder nachholen
+Eigenes Programm programmieren ( if else , do while oder arry loop)
 
 
 
-
+Reflexion:
 
 
 
@@ -59,8 +69,7 @@ Heute habe ich die Mission 6 im Modul 319 abgeschlossen. Dort hatte ich anfangs 
 
 ## Lernperiode Reflexion
 
-
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich... (100-150 Wörter))
 
 
 
