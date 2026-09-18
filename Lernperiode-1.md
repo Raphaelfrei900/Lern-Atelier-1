@@ -58,6 +58,12 @@ Eigenes Programm programmieren ( if else , do while oder arry loop)
 
 
 
+Reflexion: Heute konnte ich erfolgreich ein eigenes Spiel generieren, indem man verschiedene Punkte bekommen kann, durch eine zufällige Auswahl an Kistenöffnungen. Dadurch konnte ich das Array Prinzip und auch Schleifen verbessern. Dazu habe ich mir ein wenig  das Programmierspiel ( Harverster) angeschaut und etwas angefangen. Im ganzen kam ich gut voran und habe meine Schwachstellen trainiert.
+
+### Planung 27.09.2026
+Weiter an Harvest Game arbeiten
+ein weiteres Game erstellen 
+
 Reflexion:
 
 
