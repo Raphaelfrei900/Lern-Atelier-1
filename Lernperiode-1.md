@@ -53,7 +53,7 @@ Heute habe ich die Mission 7 319 erfolgreich abgeschlossen und auch alles versta
 
 ### Planung 18.09.2026
 
-Modul 319 Mission 9 entweder repetieren oder nachholen
+Modul 319 Mission 8 entweder repetieren oder nachholen
 Eigenes Programm programmieren ( if else , do while oder arry loop)
 
 
