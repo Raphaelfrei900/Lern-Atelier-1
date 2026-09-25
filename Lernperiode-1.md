@@ -64,7 +64,7 @@ Reflexion: Heute konnte ich erfolgreich ein eigenes Spiel generieren, indem man 
 Weiter an Harvest Game arbeiten
 ein weiteres Game erstellen 
 
-Reflexion: Heute hatte ich mehr den Fokus auf ein Spiel mit Andrea zu machen , bei dem man Noten berechnen kann als am Harvest Game weiter zu arbeiten. Dies könnte ich besser machen. Sonst war ich produktiv im Game und habe meine Skills im Programmieren auch verbessert.
+Reflexion: Heute hatte ich mehr den Fokus auf ein Spiel mit Andrea zu machen , bei dem man Noten berechnen kann als am Harvest Game weiter zu arbeiten. Dies könnte ich besser machen. Sonst war ich produktiv im Game und habe meine Skills im Programmieren auch verbessert. Zuerst ging das Programm nicht aber dann haben wir mit Hilfe des Lehrers den Fehler gefunden und konnten ihn beheben.
 
 
 
