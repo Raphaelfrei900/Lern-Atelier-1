@@ -64,7 +64,7 @@ Reflexion: Heute konnte ich erfolgreich ein eigenes Spiel generieren, indem man 
 Weiter an Harvest Game arbeiten
 ein weiteres Game erstellen 
 
-Reflexion:
+Reflexion: Heute hatte ich mehr den Fokus auf ein Spiel mit Andrea zu machen , bei dem man Noten berechnen kann als am Harvest Game weiter zu arbeiten. Dies könnte ich besser machen. Sonst war ich produktiv im Game und habe meine Skills im Programmieren auch verbessert.
 
 
 
@@ -75,7 +75,7 @@ Reflexion:
 
 ## Lernperiode Reflexion
 
-In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich viele Missionen wiederholt , um sie besser zu verstehen oder eigene Spiele programmiert um meine Programmierskills zu erweitern oder Sachen besser zu verstehen. Im Allgemeinen konnte ich die ILA-Stunden sinnvoll nutzen und kam immer weiter. Meistens habe ich mich aber auch leider ablenken lassen und habe auch ein wenig Zeit verschwendet aus Langeweile. Ich könnte mich noch ein wenig mehr motivieren und zusätzlich noch mehr Programmieren als einfach die Missionen zu wiederholen. Sonst half mir die Periode mich im Allgemeinen sehr zu verbessern und auch im Stoff nachzukommen,weil ohne ILA hätte ich warscheinlich um nachzukommen, zu Hause arbeiten müssen , was mir auch mehr Druck und Stress gemacht hätte.
 
 
 
