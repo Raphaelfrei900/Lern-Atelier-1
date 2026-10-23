@@ -1,7 +1,7 @@
 Lern-Periode 2
 
 - Name: Raphael Frei
-- Zeitraum: 23.10.2026 bis 29.09.2026 -18.12.2026
+- Zeitraum: 23.10.2026 bis  -18.12.2026
 
 ## Grob-Planung
 - Mehr Programmierwissen lernen
