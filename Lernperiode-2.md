@@ -26,14 +26,14 @@ Vielleicht kleine mini games selber  programmieren c sharp
 - [ ] eigenes kleines Programm machen
 - [X] 
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich die vier Aufträge gemacht und hatte noch schön genug Zeit mir ein eigenes kleines Programm zu  programmieren indem man sich mit einem Passwort einloggen musste, wenn nicht dann wird nochmals abgefragt bis es richtig eingegegeben wird. Dann konnte man entscheiden ob man gegen jemanden kämpfen will. Wenn ja dann konnte man den Namen eingeben und wenn nein dann ist das Stiel zu Ende gewesen. (50-100 Wörter))
 
 
-### Planung 23.08.2024
+### Planung 30.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
+- [ ] Weiter an meinem Programm arbeiten
+- [ ] Grundlagen bisschen repetieren
 - [X] Viertes AP
 
 (Heute habe ich... (50-100 Wörter))
