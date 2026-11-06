@@ -44,5 +44,5 @@ Vielleicht kleine mini games selber  programmieren c sharp
 ### Planung 06.11.2026
 3 bis 5 klar messbare Arbeitspakete
 
-- Weiter an meinem Projekt arbeiten
+- Weiter an meinem Projekt arbeiten unity
 - Videos anschauen c sharp
