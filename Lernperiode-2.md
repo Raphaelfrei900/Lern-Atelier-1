@@ -45,7 +45,16 @@ Vielleicht kleine mini games selber  programmieren c sharp
 3 bis 5 klar messbare Arbeitspakete
 
 - Weiter an meinem Projekt arbeiten unity
+
+
+
 - Videos anschauen c sharp
 
 
 Heute habe ich mit Andrea etwas an unserem unity Programm weitergearbeitet aber leider waren wir nicht so erfolgreich, da wir Komplikationen hatten. Wir haben das Beste daraus gemacht und haben es halt weiter versucht und am Schluss haben wir uns Tutorials angeschaut damit wir es besser verstehen und es beheben können.
+
+
+### Planung 13.11.2026
+
+- Weiter an an meinem Projekt in Unity arbeiten
+- Modul 162 162_1734 nachholen
