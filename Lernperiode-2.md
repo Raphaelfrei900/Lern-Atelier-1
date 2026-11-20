@@ -38,8 +38,6 @@ Vielleicht kleine mini games selber  programmieren c sharp
 
 (Heute habe ich weiter an meinem Mini Game gearbeitet also ich habe es verbessert und noch mehr Entscheidungen hinzugefügt sodass das kleine mini game noch länger dauert und besser ist. Dann habe ich ein paar c sharp Videos angeschaut und meine Grundkenntnisse verbessert sodass ich c sharp besser verstehe und damit auch besser programmieren kann.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150))
 
 ### Planung 06.11.2026
 3 bis 5 klar messbare Arbeitspakete
@@ -58,3 +56,15 @@ Heute habe ich mit Andrea etwas an unserem unity Programm weitergearbeitet aber 
 
 - Weiter an an meinem Projekt in Unity arbeiten
 - Modul 162 162_1734 nachholen
+
+
+### Reflexion
+
+Ich habe zuerst ein wenig Videos und Tutorials angeschaut, um die Codes besser zu verstehen und die Movements und alles in Unity programmieren zu können. Das hat eigentlich gut funktionier also ich konnte ein Skript  schreiben, wie sich der Charakter bewegen sollte und dann habe ich die Map und alles andere mit Andrea etwas gemacht. Zum Schluss konnte ich leider das Modul 162_1734 nur halb nachholen. Ich muss darauf schauen, mir die Zeit besser einzuteilen.
+
+
+### Planung 20.11.2026
+
+- Weiter am Unity Projekt arbeiten oder ein neues anfangen
+- Modul 162: 162_1724(Skalenniveau)
+
