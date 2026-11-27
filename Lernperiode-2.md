@@ -67,4 +67,12 @@ Ich habe zuerst ein wenig Videos und Tutorials angeschaut, um die Codes besser z
 
 - Weiter am Unity Projekt arbeiten oder ein neues anfangen
 - Modul 162: 162_1724(Skalenniveau)
+ 
+ #### Reflexion
 
+ Ich habe heute mich dazu entschieden ein neues Projekt anzufangen. Ich habe zuerst ein wenig die Map gestaltet,dann den Charakter hinzugefügt und den Bewegungscode geschrieben. Das hat alles sehr gut funktioniert und am Schluss mit ein wenig Anpassungen ging es gut. Dann hatte ich noch ein wenig Zeit die Mission 162_1724 nachzuholen. Das alles war ein bisschen knapp aber es ging trotzdem eigentlich.
+
+ ### Planung 27.11.2026
+- Modul 162: 162_1742
+- Modul 162: 162_1743
+ - Eventuell noch an Präsentation arbeiten
