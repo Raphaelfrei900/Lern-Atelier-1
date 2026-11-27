@@ -76,3 +76,6 @@ Ich habe zuerst ein wenig Videos und Tutorials angeschaut, um die Codes besser z
 - Modul 162: 162_1742
 - Modul 162: 162_1743
  - Eventuell noch an Präsentation arbeiten
+
+### Reflexion
+ Heute konnte ich 162_1742 und 162_1743 lösen und abschliessen also ich hatte  eigentlich keinen Zeitdruck und habe es auch gut verstanden den Auftrag und die Informationen allgemein. Leider hatte ich nicht genug Zeit, um an der Präsentation richtig arbeiten zu können aber ich konnte trotzdem anfangen etwas Brainstormen und ein bisschen daran arbeiten. Ich muss mir auf jeden Fall die Zeit deutlich besser einteilen, sodass ich genug Zeit für alle Sachen habe
